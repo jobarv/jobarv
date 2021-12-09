@@ -20,7 +20,7 @@ Skills: VUE JS / NUXT JS/ JS / HTML / CSS / Adobe Illustrator / FIGMA
 **Español
 
 
-Soy un ingeniero en eléctronica y automatización que decidió cambiar de carrera, inicié mi propia consultoría ingeniería con dos colegas, aquí puedes visitar nuestra página: [www.vabaja.com.mx], siempre estoy en busca de nuevos proyectos para seguir desarrollando mis habilidades.
+Soy un ingeniero en eléctronica y automatización que decidió cambiar de carrera, inicié mi propia consultoría de ingeniería con dos colegas, aquí puedes visitar nuestra página: [www.vabaja.com.mx], siempre estoy en busca de nuevos proyectos para seguir desarrollando mis habilidades.
 
 También realizamos desarrollos IoT y proyectos de infraestructura IT,
 
