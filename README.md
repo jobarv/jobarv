@@ -16,11 +16,11 @@ Skills: VUE JS / NUXT JS/ JS / HTML / CSS / Adobe Illustrator / FIGMA
 - 📫 How to reach me: jbarrera@vabaja.com.mx 
 
 ### console.log('Hola Mundo 👋, me llamo Jorge')
-#### Soy desarrollador de Software
+#### Soy desarrollador de Software ![software](https://img.icons8.com/external-sbts2018-mixed-sbts2018/58/000000/external-software-design-thinking2-sbts2018-mixed-sbts2018.png)
 **Español
-![I'm a software Developer]
 
-Soy un ingeniero en eléctronica y automatización que decidió cambiar de carrera, inicié mi propia consultoría ingeniería con dos colegas aquí puedes visitar nuestra página: [www.vabaja.com.mx], siempre estoy en busca de nuevos proyectos para seguir desarrollando mis habilidades.
+
+Soy un ingeniero en eléctronica y automatización que decidió cambiar de carrera, inicié mi propia consultoría ingeniería con dos colegas, aquí puedes visitar nuestra página: [www.vabaja.com.mx], siempre estoy en busca de nuevos proyectos para seguir desarrollando mis habilidades.
 
 También realizamos desarrollos IoT y proyectos de infraestructura IT,
 
