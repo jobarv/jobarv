@@ -12,7 +12,7 @@ Skills: VUE JS / NUXT JS/ JS / HTML / CSS / Adobe Illustrator / FIGMA
 - 🔭 I’m currently working on Front end projects mostly 
 - 🌱 I’m currently learning Mobile App Development 
 - 👯 I’m looking to collaborate on Any project that can improve my skills 
-- 🤔 I’m looking for help with Axios, how to send data to an endpoint from an static page.
+- 🤔 I’m looking for help with Axios, how to send data to an endpoint from a static page.
 - 📫 How to reach me: jbarrera@vabaja.com.mx 
 
 ### console.log('Hola Mundo 👋, me llamo Jorge')
