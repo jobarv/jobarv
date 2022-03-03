@@ -11,7 +11,7 @@ Skills: VUE JS / NUXT JS/ JS / HTML / CSS / Adobe Illustrator / FIGMA
 - 🌱 I’m currently learning Mobile App Development 
 - 👯 I’m looking to collaborate on Any project that can improve my skills 
 - 🤔 I’m looking for help with Axios, how to send data to an endpoint from a static page.
-- 📫 How to reach me: bvalencia.jorge@gmail.com  <img src="https://img.icons8.com/color/48/000000/whatsapp--v3.png"/> alt='wattsapp' height='40'>](https://wa.me/+528115028945 ) 
+- 📫 How to reach me: bvalencia.jorge@gmail.com  <img src="https://img.icons8.com/color/48/000000/whatsapp--v3.png" alt='wattsapp' height='40'>](https://wa.me/+528115028945 ) />
 
 ### console.log('Hola Mundo 👋, me llamo Jorge')
 #### Soy desarrollador de Software ![software]
@@ -26,7 +26,7 @@ Habilidades: VUE JS / NUXT JS/ JS / HTML / CSS / Adobe Illustrator / FIGMA
 - 🌱 Estoy aprendiendo desarrollo de apps móviles.
 - 👯 Quiero colaborar con cualquier proyecto que mejore mis habilidades.
 - 🤔 Necesito ayuda con Axios, cómo enviar información hacía un endpoint desde una página estática. 
-- 📫 Cómo contactarme: bvalencia.jorge@gmail.com <img src="https://img.icons8.com/color/48/000000/whatsapp--v3.png"/> alt='wattsapp' height='40'>](https://wa.me/+528115028945 )
+- 📫 Cómo contactarme: bvalencia.jorge@gmail.com <img src="https://img.icons8.com/color/48/000000/whatsapp--v3.png" alt='wattsapp' height='40'>](https://wa.me/+528115028945 )/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jobarv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//jobarv/) 
