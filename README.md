@@ -11,7 +11,7 @@ Skills: VUE JS / NUXT JS/ JS / HTML / CSS / Adobe Illustrator / FIGMA
 - 🌱 I’m currently learning Mobile App Development 
 - 👯 I’m looking to collaborate on Any project that can improve my skills 
 - 🤔 I’m looking for help with Axios, how to send data to an endpoint from a static page.
-- 📫 How to reach me: bvalencia.jorge@gmail.com  <img src="https://img.icons8.com/color/48/000000/whatsapp--v3.png" alt='wattsapp' height='40'>](https://wa.me/+528115028945 ) />
+- 📫 How to reach me: bvalencia.jorge@gmail.com  [<img src="https://img.icons8.com/color/48/000000/whatsapp--v3.png" alt='github' height='40'>](https://wa.me/+528115028945)
 
 ### console.log('Hola Mundo 👋, me llamo Jorge')
 #### Soy desarrollador de Software ![software]
