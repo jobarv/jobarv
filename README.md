@@ -3,7 +3,7 @@
 **English
 ![I'm a software Developer]
 
-I'm an automation and electronic and automation engineer who specialized in PLC programming, now I'm improving my skills in web and software development. I'm always looking for new projects that can improve my skills.
+I'm an automation and electronic engineer who specialized in PLC programming, now I'm improving my skills in web and software development. I'm always looking for new projects that can improve my skills.
 
 Skills: VUE JS / NUXT JS/ JS / HTML / CSS / Adobe Illustrator / FIGMA
 
