@@ -1,32 +1,76 @@
-### console.log('Hello World 👋, my name is Jorge')
-#### I'm a software Developer
-**English
-![I'm a software Developer]
+[![English Version](https://img.shields.io/badge/🌐_English-blue)](README.en.md)
 
-I'm an automation and electronic engineer who specialized in PLC programming, now I'm improving my skills in web and software development. I'm always looking for new projects that can improve my skills.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" alt="Hola!"/>
+</p>
 
-Skills: VUE JS / NUXT JS/ JS / HTML / CSS / Adobe Illustrator / FIGMA
+<h1 align="center">Hola, soy Jorge Barrera 👋</h1>
 
-- 🔭 I’m currently working on Front end projects mostly 
-- 🌱 I’m currently learning Mobile App Development 
-- 👯 I’m looking to collaborate on Any project that can improve my skills 
-- 🤔 I'm improving my skills on React developments.
-- 📫 How to reach me: bvalencia.jorge@gmail.com  [<img src="https://img.icons8.com/color/48/000000/whatsapp--v3.png" alt='github' height='40'>](https://wa.me/+528115028945)
+<p align="center">
+  <strong>Desarrollador Full Stack</strong> con enfoque en <strong>React + TypeScript</strong> y experiencia en <strong>.NET y C#</strong>.<br/>
+  Apasionado por la automatización con <strong>Python</strong> para <strong>DevOps</strong> y avanzando hacia <strong>DevSecOps</strong> y <strong>Ciberseguridad</strong>.
+</p>
 
-### console.log('Hola Mundo 👋, me llamo Jorge')
-#### Soy desarrollador de Software ![software]
-**Español
+---
 
+## 🛠 Tecnologías & Herramientas
 
-Soy ingeniero en electrónica y automatización especializado en programación de PLC, ahora me enfoco en el desarrollo web y de software. Siempre estoy en buca de nuevos proyectos que me permitan mejorar mis habilidades.
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
 
-Habilidades: VUE JS / NUXT JS/ JS / HTML / CSS / Adobe Illustrator / FIGMA
+---
 
-- 🔭 Estoy trabajando en proyectos de front end principalmente. 
-- 🌱 Estoy aprendiendo desarrollo de apps móviles.
-- 👯 Quiero colaborar con cualquier proyecto que mejore mis habilidades.
-- 🤔 Actualmente estoy mejorando mis habilidades desarrollando con React. 
-- 📫 Cómo contactarme: bvalencia.jorge@gmail.com [<img src="https://img.icons8.com/color/48/000000/whatsapp--v3.png" alt='github' height='40'>](https://wa.me/+528115028945)
+## 📂 Proyectos destacados
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jobarv)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//jobarv/) 
+### 🟦 React + TypeScript
 
+| Proyecto     | Descripción                                       | Repositorio                                                      | Demo                             |
+|--------------|-------------------------------------------------|-----------------------------------------------------------------|---------------------------------|
+| Task Manager | App para gestionar tareas con Hooks y Context API | [Repo](https://github.com/usuario/task-manager)                 | [Demo](https://taskmanager.vercel.app) |
+| Weather App  | Consulta de clima usando API pública y TypeScript | [Repo](https://github.com/usuario/weather-app)                  | [Demo](https://weather-ts.vercel.app) |
+
+### 🟪 .NET y C#
+
+| Proyecto          | Descripción                                 | Repositorio                                                    | Demo |
+|-------------------|---------------------------------------------|---------------------------------------------------------------|------|
+| Inventory System  | Sistema de inventario con WebForms y SQL Server | [Repo](https://github.com/usuario/inventory-system)           | —    |
+| API REST con .NET Core | API para gestión de productos con JWT Auth | [Repo](https://github.com/usuario/dotnet-api)                  | —    |
+
+### 🐍 Automatización con Python
+
+| Proyecto               | Descripción                                                          | Repositorio                                                     | Demo |
+|------------------------|----------------------------------------------------------------------|----------------------------------------------------------------|------|
+| CI/CD Script Automation | Scripts en Python para despliegues automáticos en entornos de prueba y producción | [Repo](https://github.com/usuario/python-ci-cd)                | —    |
+| Security Scanner       | Herramienta en Python para escaneo de vulnerabilidades en repositorios | [Repo](https://github.com/usuario/python-security-scanner)     | —    |
+
+---
+
+## 🔄 Próximos pasos
+
+📌 **Fase 2 – DevOps**  
+- Integrar pipelines completos con Docker + Kubernetes + Python  
+- Automatizar despliegues, backups y monitoreo
+
+📌 **Fase 3 – DevSecOps / Ciberseguridad**  
+- Incorporar análisis de seguridad en pipelines (SAST/DAST) con Python  
+- Auditoría de código y pruebas de penetración
+
+---
+
+## 📬 Contacto
+
+- 💼 [LinkedIn](https://linkedin.com/in/jobarv)  
+- 📧 bvalencia.jorge@gmail.com 
+- 🌐 [Portafolio web](https://barras-designs.com.mx/tvirtual/JorgeBarrera/)  
+
+---
+
+⭐ _Si te gustan mis proyectos, no olvides dejar una estrella._  
